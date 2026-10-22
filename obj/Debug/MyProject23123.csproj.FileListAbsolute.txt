@@ -1,0 +1,10 @@
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.csproj.AssemblyReference.cache
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.Properties.Resources.resources
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.csproj.GenerateResource.cache
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.csproj.CoreCompileInputs.cache
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\bin\Debug\MyProject23123.exe.config
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\bin\Debug\MyProject23123.exe
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\bin\Debug\MyProject23123.pdb
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.exe
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.pdb
+C:\Users\Ромчик\Desktop\MyProject23123\MyProject23123\obj\Debug\MyProject23123.MainForm.resources
