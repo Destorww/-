@@ -15,6 +15,8 @@ namespace MyProject23123
         {
             private const int RequiredTotal = 8;
 
+
+
             private int _requiredDone = 0;
             private int _totalItems = 0;
             private decimal _totalSum = 0;
